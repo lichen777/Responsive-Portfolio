@@ -219,25 +219,25 @@ h2, h3 {
 
 @media screen and (max-width: 980px) {
 	.container {
-		width: 800px;
+		width: 760px;
 
 	}
 
 	.yourName {
-		width: 530px;
+		width: 490px;
 	}
 
 	.top {
-		width: 800px;
+		width: 760px;
 	}
 
 	.content {
-		width: 500px;
+		width: 480px;
 	}
 
 	.content img {
 	margin: 0 0 15px 0;
-	width: 460px;
+	width: 440px;
 }
 
 	.box-container {
@@ -245,11 +245,11 @@ h2, h3 {
 	}
 
 	.box {
-		width: 460px;
+		width: 440px;
 	}
 
 	.aside {
-		width: 260px;
+		width: 240px;
 	}
 }
 
